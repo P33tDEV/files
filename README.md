@@ -6,3 +6,8 @@ some css/js files i use. It's here because i want to fetch it instead of uploadi
 markcolor:
 https://cdn.jsdelivr.net/gh/P33tDEV/files/ppass/markcolor.css
 
+nav.css
+https://cdn.jsdelivr.net/gh/P33tDEV/files/ppass/nav.css
+
+
+
